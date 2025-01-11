@@ -214,3 +214,422 @@ Bauhaus-Universität WeimarThuringia
 HMU Health and Medical University ErfurtThuringia
 Nordhausen University of Applied SciencesThuringia
 University of Applied Sciences Erfurt (UAS Erfurt)Thuringia
+
+
+
+
+
+-------
+
+University Name	Location	Type of Control	Institution Type
+Arden University Berlin	Berlin	Private, State-Approved	Fachhochschule (university of applied sciences)
+GISMA University of Applied Sciences	Potsdam	Private, State-Approved	Fachhochschule (university of applied sciences)
+University of Europe for Applied Sciences	Potsdam	Private, State-Approved	Fachhochschule (university of applied sciences)
+Berlin School of Business of Innovation	Berlin	Private, State-Approved	Fachhochschule (university of applied sciences)
+IU International University of Applied Sciences	Erfurt	Private, State-Approved	Fachhochschule (university of applied sciences)
+Rheinisch-Westfälische Technische Hochschule Aachen	Aachen	under public law	University
+Universität Augsburg	Augsburg	under public law	University
+Otto-Friedrich-Universität Bamberg	Bamberg	under public law	University
+Universität Bayreuth	Bayreuth	under public law	University
+Bard College Berlin, A Liberal Arts University	Berlin	private, state-approved	University
+ESCP Europe Wirtschaftshochschule Berlin e.V.	Berlin	private, state-approved	University
+ESMT European School of Management and Technology	Berlin	private, state-approved	University
+Freie Universität Berlin	Berlin	under public law	University
+Hertie School	Berlin	private, state-approved	University
+Humboldt-Universität zu Berlin	Berlin	under public law	University
+International Psychoanalytic University Berlin	Berlin	private, state-approved	University
+Psychologische Hochschule Berlin (PHB)	Berlin	private, state-approved	University
+Technische Universität Berlin	Berlin	under public law	University
+Universität Bielefeld	Bielefeld	under public law	University
+Ruhr-Universität Bochum	Bochum	under public law	University
+University Name	Location	Type of Control	Institution Type
+Rheinische Friedrich-Wilhelms-Universität Bonn	Bonn	under public law	University
+Technische Universität Carolo-Wilhelmina zu Braunschweig	Braunschweig	under public law	University
+Constructor University	Bremen	private, state-approved	University
+Universität Bremen	Bremen	under public law	University
+Technische Universität Chemnitz	Chemnitz	under public law	University
+Technische Universität Clausthal	Clausthal-Zellerfeld	under public law	University
+Brandenburgische Technische Universität Cottbus-Senftenberg	Cottbus	under public law	University
+Technische Universität Darmstadt	Darmstadt	under public law	University
+Technische Universität Dortmund	Dortmund	under public law	University
+DIU - Dresden International University GmbH	Dresden	private, state-approved	University
+Technische Universität Dresden	Dresden	under public law	University
+Heinrich-Heine-Universität Düsseldorf	Düsseldorf	under public law	University
+Katholische Universität Eichstätt - Ingolstadt	Eichstätt	church, state-approved	University
+Universität Erfurt	Erfurt	under public law	University
+Friedrich-Alexander-Universität Erlangen-Nürnberg	Erlangen	under public law	University
+Universität Duisburg-Essen	Essen	under public law	University
+Europa-Universität Flensburg	Flensburg	under public law	University
+Frankfurt School of Finance & Management	Frankfurt am Main	private, state-approved	University
+Johann Wolfgang Goethe-Universität, Frankfurt am Main	Frankfurt am Main	under public law	University
+Philosophisch-Theologische Hochschule Sankt Georgen Frankfurt am Main	Frankfurt am Main	church, state-approved	University
+Europa-Universität Viadrina Frankfurt (Oder)	Frankfurt (Oder)	under public law	University
+Technische Universität Bergakademie Freiberg	Freiberg	under public law	University
+Albert-Ludwigs-Universität Freiburg im Breisgau	Freiburg	under public law	University
+Pädagogische Hochschule Freiburg	Freiburg	under public law	University
+Theologische Hochschule Friedensau	Friedensau	church, state-approved	University
+Zeppelin Universität - Hochschule zwischen Wirtschaft, Kultur und Politik	Friedrichshafen	private, state-approved	University
+Theologische Fakultät Fulda	Fulda	church, state-approved	University
+Justus-Liebig-Universität Gießen	Gießen	under public law	University
+Georg-August-Universität Göttingen	Göttingen	under public law	University
+Universität Greifswald	Greifswald	under public law	University
+FernUniversität in Hagen	Hagen	under public law	University
+Martin-Luther-Universität Halle-Wittenberg	Halle	under public law	University
+Bucerius Law School, Hochschule für Rechtswissenschaft	Hamburg	private, state-approved	University
+HafenCity Universität Hamburg	Hamburg	under public law	University
+Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg	Hamburg	under public law	University
+Kühne Logistics University - Wissenschaftliche Hochschule für Logistik und Unternehmensführung	Hamburg	private, state-approved	University
+Technische Universität Hamburg	Hamburg	under public law	University
+Universität Hamburg	Hamburg	under public law	University
+Gottfried Wilhelm Leibniz Universität Hannover	Hannover	under public law	University
+Medizinische Hochschule Hannover (MHH)	Hannover	under public law	UniversityStiftung Tierärztliche Hochschule Hannover	Hannover	under public law	University
+Hochschule für Jüdische Studien Heidelberg	Heidelberg	private, state-approved	University
+Pädagogische Hochschule Heidelberg	Heidelberg	Under public law	University
+Ruprecht-Karls-Universität Heidelberg	Heidelberg	Under public law	University
+Universität Hildesheim	Hildesheim	Under public law	University
+Technische Universität Ilmenau	Ilmenau	Under public law	University
+Friedrich-Schiller-Universität Jena	Jena	Under public law	University
+Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau	Kaiserslautern	Under public law	University
+Karlsruher Institut für Technologie	Karlsruhe	Under public law	University
+Pädagogische Hochschule Karlsruhe	Karlsruhe	Under public law	University
+Universität Kassel	Kassel	Under public law	University
+Christian-Albrechts-Universität zu Kiel	Kiel	Under public law	University
+Universität Koblenz	Koblenz	Under public law	University
+Deutsche Sporthochschule Köln	Köln	Under public law	University
+Kölner Hochschule für Katholische Theologie (KHKT)	Köln	Church, state-approved	University
+Universität zu Köln	Köln	Under public law	University
+Universität Konstanz	Konstanz	Under public law	University
+HHL Leipzig Graduate School of Management	Leipzig	Private, state-approved	University
+Universität Leipzig	Leipzig	Under public law	University
+Universität zu Lübeck	Lübeck	Under public law	UniversityUniversity Name	Location	Type of Control	Institution Type
+Pädagogische Hochschule Ludwigsburg	Ludwigsburg	Under public law	University
+Leuphana Universität Lüneburg	Lüneburg	Under public law	University
+Otto-von-Guericke-Universität Magdeburg	Magdeburg	Under public law	University
+Johannes Gutenberg-Universität Mainz	Mainz	Under public law	University
+Universität Mannheim	Mannheim	Under public law	University
+Philipps-Universität Marburg	Marburg	Under public law	University
+Hochschule für Philosophie	München	Church, state-approved	University
+Ludwig-Maximilians-Universität München	München	Under public law	University
+Technische Universität München	München	Under public law	University
+Philosophisch-Theologische Hochschule Münster	Münster	Church, state-approved	University
+Universität Münster	Münster	Under public law	University
+Universität der Bundeswehr München	Neubiberg	Under public law	University
+Augustana-Hochschule Neuendettelsau	Neuendettelsau	Church, state-approved	University
+Medizinische Hochschule Brandenburg Theodor Fontane	Neuruppin	Private, state-approved	University
+Lutherische Theologische Hochschule Oberursel	Oberursel	Church, state-approved	University
+Carl von Ossietzky Universität Oldenburg	Oldenburg	Under public law	University
+Universität Osnabrück	Osnabrück	Under public law	University
+Theologische Fakultät Paderborn	Paderborn	Church, state-approved	University
+Universität Paderborn	Paderborn	Under public law	University
+Universität Passau	Passau	Under public law	UniversityUniversität Potsdam	Potsdam	Under public law	University
+Universität Regensburg	Regensburg	Under public law	University
+Universität Rostock	Rostock	Under public law	University
+Universität des Saarlandes	Saarbrücken	Under public law	University
+Pädagogische Hochschule Schwäbisch Gmünd	Schwäbisch Gmünd	Under public law	University
+Universität Siegen	Siegen	Under public law	University
+Deutsche Universität für Verwaltungswissenschaften Speyer	Speyer	Under public law	University
+Freie Hochschule Stuttgart - Seminar für Waldorfpädagogik	Stuttgart	Private, state-approved	University
+Universität Stuttgart	Stuttgart	Under public law	University
+Universität Hohenheim	Stuttgart-Hohenheim	Under public law	University
+Theologische Fakultät Trier	Trier	Church, state-approved	University
+Universität Trier	Trier	Under public law	University
+Eberhard Karls Universität Tübingen	Tübingen	Under public law	University
+Universität Ulm	Ulm	Under public law	University
+Vinzenz Pallotti University	Vallendar	Church, state-approved	University
+WHU - Otto Beisheim School of Management	Vallendar	Private, state-approved	University
+Universität Vechta	Vechta	Under public law	University
+Bauhaus-Universität Weimar	Weimar	Under public law	University
+Pädagogische Hochschule Weingarten	Weingarten	Under public law	University
+Charlotte Fresenius Hochschule	Wiesbaden	Private, state-approved	UniversityEBS Universität für Wirtschaft und Recht	Wiesbaden	Private, state-approved	University
+Private Universität Witten/Herdecke gGmbH	Witten	Private, state-approved	University
+Bergische Universität Wuppertal	Wuppertal	Under public law	University
+Kirchliche Hochschule Wuppertal	Wuppertal	Church, state-approved	University
+Julius-Maximilians-Universität Würzburg	Würzburg	Under public law	University
+Fachhochschule Aachen	Aachen	Under public law	Fachhochschule (university of applied sciences)
+Hochschule Aalen - Technik und Wirtschaft	Aalen	Under public law	Fachhochschule (university of applied sciences)
+Ostbayerische Technische Hochschule Amberg-Weiden	Amberg	Under public law	Fachhochschule (university of applied sciences)
+Hochschule für angewandte Wissenschaften Ansbach	Ansbach	Under public law	Fachhochschule (university of applied sciences)
+Technische Hochschule Aschaffenburg	Aschaffenburg	Under public law	Fachhochschule (university of applied sciences)
+Technische Hochschule Augsburg	Augsburg	Under public law	Fachhochschule (university of applied sciences)
+EHIP – Europäische Hochschule für Innovation und Perspektive	Backnang	Private, state-approved	Fachhochschule (university of applied sciences)
+accadis Hochschule Bad Homburg	Bad Homburg	Private, state-approved	Fachhochschule (university of applied sciences)
+Internationale Hochschule Liebenzell (IHL)	Bad Liebenzell	Private, state-approved	Fachhochschule (university of applied sciences)
+DIPLOMA Hochschule - Private Fachhochschule Nordhessen	Bad Sooden-Allendorf	Private, state-approved	Fachhochschule (university of applied sciences)
+Akkon-Hochschule	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Alice Salomon Hochschule Berlin	Berlin	Under public law	Fachhochschule (university of applied sciences)
+bbw Hochschule	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Berliner Hochschule für Technik	Berlin	Under public law	Fachhochschule (university of applied sciences)
+Berlin International University of Applied Sciences	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)BSP Business and Law School - Hochschule für Management und Recht	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+CODE University of Applied Sciences	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+DHGS Deutsche Hochschule für Gesundheit und Sport	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Digital Business University of Applied Sciences	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Evangelische Hochschule Berlin	Berlin	Church, state-approved	Fachhochschule (university of applied sciences)
+HMKW Hochschule für Medien, Kommunikation und Wirtschaft	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Hochschule für Soziale Arbeit und Pädagogik (HSAP) gemeinnützige Betriebsgesellschaft mbH	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Hochschule für Technik und Wirtschaft Berlin	Berlin	Under public law	Fachhochschule (university of applied sciences)
+Hochschule für Wirtschaft und Recht Berlin	Berlin	Under public law	Fachhochschule (university of applied sciences)
+IB Hochschule für Gesundheit und Soziales	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Katholische Hochschule für Sozialwesen Berlin (KHSB)	Berlin	Church, state-approved	Fachhochschule (university of applied sciences)
+Mediadesign Hochschule für Design und Informatik	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Medical School Berlin - Hochschule für Gesundheit und Medizin (MSB)	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Quadriga Hochschule Berlin	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+SRH Berlin University of Applied Sciences	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Touro College Berlin	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+VICTORIA	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Hochschule Biberach - Architektur und Bauwesen, Energie Betriebswirtschaft sowie Biotechnologie	Biberach	Under public law	Fachhochschule (university of applied sciences)
+Fachhochschule der Diakonie - Diaconia - University of Applied Sciences	Bielefeld	Church, state-approved	Fachhochschule (university of applied sciences)
+BSP Business and Law School - Hochschule für Management und Recht	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+CODE University of Applied Sciences	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+DHGS Deutsche Hochschule für Gesundheit und Sport	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Digital Business University of Applied Sciences	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Evangelische Hochschule Berlin	Berlin	Church, state-approved	Fachhochschule (university of applied sciences)
+HMKW Hochschule für Medien, Kommunikation und Wirtschaft	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Hochschule für Soziale Arbeit und Pädagogik (HSAP) gemeinnützige Betriebsgesellschaft mbH	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Hochschule für Technik und Wirtschaft Berlin	Berlin	Under public law	Fachhochschule (university of applied sciences)
+Hochschule für Wirtschaft und Recht Berlin	Berlin	Under public law	Fachhochschule (university of applied sciences)
+IB Hochschule für Gesundheit und Soziales	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Katholische Hochschule für Sozialwesen Berlin (KHSB)	Berlin	Church, state-approved	Fachhochschule (university of applied sciences)
+Mediadesign Hochschule für Design und Informatik	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Medical School Berlin - Hochschule für Gesundheit und Medizin (MSB)	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Quadriga Hochschule Berlin	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+SRH Berlin University of Applied Sciences	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Touro College Berlin	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+VICTORIA	Berlin	Private, state-approved	Fachhochschule (university of applied sciences)
+Hochschule Biberach - Architektur und Bauwesen, Energie Betriebswirtschaft sowie Biotechnologie	Biberach	Under public law	Fachhochschule (university of applied sciences)
+Fachhochschule der Diakonie - Diaconia - University of Applied Sciences	Bielefeld	Church, state-approved	Fachhochschule (university of applied sciences)
+Fachhochschule Dortmund	Dortmund	Under Public Law	Fachhochschule (university of applied sciences)
+International School of Management	Dortmund	Private, State-Approved	Fachhochschule (university of applied sciences)
+Evangelische Hochschule Dresden	Dresden	Church, State-Approved	Fachhochschule (university of applied sciences)
+Fachhochschule Dresden	Dresden	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule für Technik und Wirtschaft Dresden	Dresden	Under Public Law	Fachhochschule (university of applied sciences)
+Fliedner Fachhochschule Düsseldorf	Düsseldorf	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Düsseldorf	Düsseldorf	Under Public Law	Fachhochschule (university of applied sciences)
+IST-Hochschule für Management	Düsseldorf	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule für nachhaltige Entwicklung Eberswalde	Eberswalde	Under Public Law	Fachhochschule (university of applied sciences)
+NORDAKADEMIE Hochschule der Wirtschaft	Elmshorn	Private, State-Approved	Fachhochschule (university of applied sciences)
+Theologische Hochschule Elstal	Elstal	Church, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Emden/Leer	Emden	Under Public Law	Fachhochschule (university of applied sciences)
+Fachhochschule Erfurt	Erfurt	Under Public Law	Fachhochschule (university of applied sciences)
+FOM Hochschule für Oekonomie & Management	Essen	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Esslingen	Esslingen	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Flensburg	Flensburg	Under Public Law	Fachhochschule (university of applied sciences)
+Frankfurt University of Applied Sciences	Frankfurt am Main	Under Public Law	Fachhochschule (university of applied sciences)
+Provadis School of International Management and Technology	Frankfurt am Main	Private, State-Approved	Fachhochschule (university of applied sciences)
+Tomorrow University of Applied Sciences	Frankfurt am Main	Private, State-Approved	Fachhochschule (university of applied sciences)
+Evangelische Hochschule Freiburg	Freiburg	Church, State-Approved	Fachhochschule (university of applied sciences)
+Katholische Hochschule Freiburg	Freiburg	Church, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule für angewandte Wissenschaften Weihenstephan-Triesdorf	Freising	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Fulda	Fulda	Under Public Law	Fachhochschule (university of applied sciences)
+SRH Wilhelm Löhe Hochschule	Fürth	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Furtwangen	Furtwangen	Under Public Law	Fachhochschule (university of applied sciences)
+Westfälische Hochschule Gelsenkirchen, Bocholt, Recklinghausen	Gelsenkirchen	Under Public Law	Fachhochschule (university of applied sciences)
+SRH Hochschule für Gesundheit	Gera	Private, State-Approved	Fachhochschule (university of applied sciences)
+Freie Theologische Hochschule Gießen	Gießen	Private, State-Approved	Fachhochschule (university of applied sciences)
+Technische Hochschule Mittelhessen	Gießen	Under Public Law	Fachhochschule (university of applied sciences)
+PFH - Private Hochschule Göttingen	Göttingen	Private, State-Approved	Fachhochschule (university of applied sciences)
+Brand University of Applied Sciences	Hamburg	Private, State-Approved	Fachhochschule (university of applied sciences)
+Europäische Fernhochschule Hamburg	Hamburg	Private, State-Approved	Fachhochschule (university of applied sciences)
+Evangelische Hochschule für Soziale Arbeit & Diakonie	Hamburg	Church, State-Approved	Fachhochschule (university of applied sciences)
+Hamburger Fern-Hochschule	Hamburg	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule für Angewandte Wissenschaften Hamburg	Hamburg	Under Public Law	Fachhochschule (university of applied sciences)
+HSBA Hamburg School of Business Administration	Hamburg	Private, State-Approved	Fachhochschule (university of applied sciences)
+NBS Northern Business School	Hamburg	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Weserbergland	Hameln	Private, State-Approved	Fachhochschule (university of applied sciences)
+SRH Hochschule in Nordrhein-Westfalen	Hamm	Private, State-Approved	Fachhochschule (university of applied sciences)
+Fachhochschule für die Wirtschaft Hannover	Hannover	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Hannover	Hannover	Under Public Law	Fachhochschule (university of applied sciences)
+Leibniz-Fachhochschule	Hannover	Private, State-Approved	Fachhochschule (university of applied sciences)
+Fachhochschule Westküste, Hochschule für Wirtschaft und Technik	Heide	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Fresenius Heidelberg	Heidelberg	Private, State-Approved	Fachhochschule (university of applied sciences)
+SRH Hochschule Heidelberg	Heidelberg	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Heilbronn, Technik, Wirtschaft, Informatik	Heilbronn	Under Public Law	Fachhochschule (university of applied sciences)
+Fachhochschule für Interkulturelle Theologie Hermannsburg	Hermannsburg	Private, State-Approved	Fachhochschule (university of applied sciences)
+HAWK Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen	Hildesheim	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule für angewandte Wissenschaften Hof	Hof	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Fresenius	Idstein	Private, State-Approved	Fachhochschule (university of applied sciences)
+Technische Hochschule Ingolstadt	Ingolstadt	Under Public Law	Fachhochschule (university of applied sciences)
+Fachhochschule Südwestfalen	Iserlohn	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule für angewandtes Management	Ismaning	Private, State-Approved	Fachhochschule (university of applied sciences)
+Ernst-Abbe-Hochschule Jena	Jena	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Kaiserslautern	Kaiserslautern	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Karlsruhe - Technik und Wirtschaft	Karlsruhe	Under Public Law	Fachhochschule (university of applied sciences)
+Karlshochschule International University	Karlsruhe	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule für angewandte Wissenschaften Kempten	Kempten	Under Public Law	Fachhochschule (university of applied sciences)
+Duale Hochschule Schleswig-Holstein	Kiel	Private, State-Approved	Fachhochschule (university of applied sciences)
+Fachhochschule Kiel	Kiel	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Rhein-Waal	Kleve	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Koblenz	Koblenz	Under Public Law	Fachhochschule (university of applied sciences)
+CBS International Business School	Köln	Private, State-Approved	Fachhochschule (university of applied sciences)
+INU - Innovative Hochschule für angewandte Wissenschaften	Köln	Private, State-Approved	Fachhochschule (university of applied sciences)
+Katholische Hochschule Nordrhein-Westfalen	Köln	Church, State-Approved	Fachhochschule (university of applied sciences)
+Kolping Hochschule	Köln	Private, State-Approved	Fachhochschule (university of applied sciences)
+Rheinische Fachhochschule Köln	Köln	Private, State-Approved	Fachhochschule (university of applied sciences)
+Technische Hochschule Köln	Köln	Under Public Law	Fachhochschule (university of applied sciences)
+Allensbach Hochschule Konstanz	Konstanz	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Konstanz Technik, Wirtschaft und Gestaltung	Konstanz	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Anhalt	Köthen	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Niederrhein	Krefeld	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Landshut	Landshut	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule für Technik, Wirtschaft und Kultur Leipzig	Leipzig	Under Public Law	Fachhochschule (university of applied sciences)
+Technische Hochschule Ostwestfalen-Lippe	Lemgo	Under Public Law	Fachhochschule (university of applied sciences)
+Technische Hochschule Lübeck	Lübeck	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule für Wirtschaft und Gesellschaft Ludwigshafen	Ludwigshafen	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Magdeburg-Stendal	Magdeburg	Under Public Law	Fachhochschule (university of applied sciences)
+Steinbeis Hochschule	Magdeburg	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Mainz	Mainz	Under Public Law	Fachhochschule (university of applied sciences)
+Katholische Hochschule Mainz	Mainz	Church, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule der Wirtschaft für Management	Mannheim	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Mannheim	Mannheim	Under Public Law	Fachhochschule (university of applied sciences)
+Evangelische Hochschule Tabor	Marburg	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Merseburg	Merseburg	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Mittweida, University of Applied Sciences	Mittweida	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Ruhr West- University of Applied Sciences	Mülheim an der Ruhr	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule der Bayerischen Wirtschaft für angewandte Wissenschaften - HDBW	München	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule für angewandte Wissenschaften München	München	Under Public Law	Fachhochschule (university of applied sciences)
+Internationale Hochschule SDI München	München	Private, State-Approved	Fachhochschule (university of applied sciences)
+Katholische Stiftungshochschule München	München	Church, State-Approved	Fachhochschule (university of applied sciences)
+Munich Business School	München	Private, State-Approved	Fachhochschule (university of applied sciences)
+FH Münster University of Applied Sciences	Münster	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Neubrandenburg	Neubrandenburg	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule für angewandte Wissenschaften Neu-Ulm	Neu-Ulm	Under Public Law	Fachhochschule (university of applied sciences)
+Evangelische Hochschule Nürnberg	Nürnberg	Church, State-Approved	Fachhochschule (university of applied sciences)
+Technische Hochschule Nürnberg Georg Simon Ohm	Nürnberg	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Nürtingen-Geislingen	Nürtingen	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Offenburg	Offenburg	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Osnabrück	Osnabrück	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule für Künste im Sozialen, Ottersberg	Ottersberg	Private, State-Approved	Fachhochschule (university of applied sciences)
+Fachhochschule der Wirtschaft	Paderborn	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Pforzheim	Pforzheim	Under Public Law	Fachhochschule (university of applied sciences)
+Fachhochschule für Sport und Management Potsdam	Potsdam	Private, State-Approved	Fachhochschule (university of applied sciences)
+Fachhochschule Potsdam	Potsdam	Under Public Law	Fachhochschule (university of applied sciences)
+GU Deutsche Hochschule	Potsdam	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Clara Hoffbauer (HCHP)	Potsdam	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Döpfer	Potsdam	Private, State-Approved	Fachhochschule (university of applied sciences)
+XU Exponential University	Potsdam	Private, State-Approved	Fachhochschule (university of applied sciences)
+Ostbayerische Technische Hochschule Regensburg	Regensburg	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Reutlingen	Reutlingen	Under Public Law	Fachhochschule (university of applied sciences)
+Theologische Hochschule Reutlingen	Reutlingen	Church, State-Approved	Fachhochschule (university of applied sciences)
+SRH Fernhochschule	Riedlingen	Private, State-Approved	Fachhochschule (university of applied sciences)
+Technische Hochschule Rosenheim	Rosenheim	Under Public Law	Fachhochschule (university of applied sciences)
+Deutsche Hochschule für Prävention und Gesundheitsmanagement	Saarbrücken	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule für Technik und Wirtschaft des Saarlandes	Saarbrücken	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Bonn-Rhein-Sieg	Sankt Augustin	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Schmalkalden	Schmalkalden	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule für Gestaltung Schwäbisch Gmünd	Schwäbisch Gmünd	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Albstadt-Sigmaringen	Sigmaringen	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Stralsund	Stralsund	Under Public Law	Fachhochschule (university of applied sciences)
+AKAD Hochschule Stuttgart	Stuttgart	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule der Medien Stuttgart	Stuttgart	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule für Kommunikation und Gestaltung	Stuttgart	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule für Technik Stuttgart	Stuttgart	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Macromedia Stuttgart	Stuttgart	Private, State-Approved	Fachhochschule (university of applied sciences)
+media Akademie - Hochschule Stuttgart	Stuttgart	Private, State-Approved	Fachhochschule (university of applied sciences)
+Merz Akademie Stuttgart	Stuttgart	Private, State-Approved	Fachhochschule (university of applied sciences)
+VWA-Hochschule für berufsbegleitendes Studium	Stuttgart	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Trier	Trier	Under Public Law	Fachhochschule (university of applied sciences)
+Technische Hochschule Ulm	Ulm	Under Public Law	Fachhochschule (university of applied sciences)
+Private Hochschule für Wirtschaft und Technik Vechta/Diepholz	Vechta	Private, State-Approved	Fachhochschule (university of applied sciences)
+Fachhochschule Wedel	Wedel	Private, State-Approved	Fachhochschule (university of applied sciences)
+Hochschule Harz	Wernigerode	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule RheinMain	Wiesbaden	Under Public Law	Fachhochschule (university of applied sciences)
+Technische Hochschule Wildau	Wildau	Under Public Law	Fachhochschule (university of applied sciences)
+Jade Hochschule	Wilhelmshaven	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Wismar	Wismar	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Braunschweig/Wolfenbüttel, Ostfalia	Wolfenbüttel	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Worms	Worms	Under Public Law	Fachhochschule (university of applied sciences)
+Technische Hochschule Würzburg-Schweinfurt	Würzburg	Under Public Law	Fachhochschule (university of applied sciences)
+Hochschule Zittau/Görlitz	Zittau	Under Public Law	Fachhochschule (university of applied sciences)
+Westsächsische Hochschule Zwickau	Zwickau	Under Public Law	Fachhochschule (university of applied sciences)
+Alanus Hochschule für Kunst und Gesellschaft	Alfter	Private, State-Approved	Colleges of the arts
+Hochschule für evangelische Kirchenmusik	Bayreuth	Church, State-Approved	Colleges of the arts
+Barenboim-Said Akademie	Berlin	Private, State-Approved	Colleges of the arts
+Hochschule für Musik "Hanns Eisler" Berlin	Berlin	Under Public Law	Colleges of the arts
+Hochschule für Schauspielkunst Ernst Busch	Berlin	Under Public Law	Colleges of the arts
+Universität der Künste Berlin	Berlin	Under Public Law	Colleges of the arts
+weißensee kunsthochschule berlin	Berlin	Under Public Law	Colleges of the arts
+Hochschule für Bildende Künste Braunschweig	Braunschweig	Under Public Law	Colleges of the arts
+Hochschule für Künste Bremen	Bremen	Under Public Law	Colleges of the arts
+Hochschule für Bildende Künste Dresden	Dresden	Under Public Law	Colleges of the arts
+Hochschule für Kirchenmusik der Evangelisch-Lutherischen Landeskirche Sachsens	Dresden	Church, State-Approved	Colleges of the arts
+Hochschule für Musik Carl Maria von Weber Dresden	Dresden	Under Public Law	Colleges of the arts
+Palucca Hochschule für Tanz Dresden	Dresden	Under Public Law	Colleges of the arts
+Kunstakademie Düsseldorf	Düsseldorf	Under Public Law	Colleges of the arts
+Robert-Schumann-Hochschule Düsseldorf	Düsseldorf	Under Public Law	Colleges of the arts
+Folkwang Universität der Künste	Essen	Under Public Law	Colleges of the arts
+Hochschule der bildenden Künste (HBK) Essen	Essen	Private, State-Approved	Colleges of the arts
+Hochschule für Bildende Künste (Städelschule)	Frankfurt am Main	Under Public Law	Colleges of the arts
+Hochschule für Musik und Darstellende Kunst Frankfurt am Main	Frankfurt am Main	Under Public Law	Colleges of the arts
+Hochschule für Musik Freiburg	Freiburg	Under Public Law	Colleges of the arts
+Burg Giebichenstein Kunsthochschule Halle	Halle an der Saale	Under Public Law	Colleges of the arts
+Evangelische Hochschule für Kirchenmusik	Halle an der Saale	Church, State-Approved	Colleges of the arts
+Hochschule für Bildende Künste Hamburg	Hamburg	Under Public Law	Colleges of the arts
+Hochschule für Musik und Theater Hamburg	Hamburg	Under Public Law	Colleges of the arts
+Hochschule für Musik, Theater und Medien Hannover	Hannover	Under Public Law	Colleges of the arts
+Hochschule für Kirchenmusik der Evangelischen Landeskirche in Baden	Heidelberg	Church, State-Approved	Colleges of the arts
+Hochschule für Kirchenmusik der Evangelischen Kirche von Westfalen	Herford	Church, State-Approved	Colleges of the arts
+Hochschule für Musik Karlsruhe	Karlsruhe	Under Public Law	Colleges of the arts
+Staatliche Hochschule für Gestaltung Karlsruhe	Karlsruhe	Under Public Law	Colleges of the arts
+Muthesius Kunsthochschule	Kiel	Under Public Law	Colleges of the arts
+Hochschule für Musik und Tanz Köln	Köln	Under Public Law	Colleges of the arts
+Kunsthochschule für Medien Köln	Köln	Under Public Law	Colleges of the arts
+Hochschule für Grafik und Buchkunst Leipzig	Leipzig	Under Public Law	Colleges of the arts
+Hochschule für Musik und Theater "Felix Mendelssohn Bartholdy" Leipzig	Leipzig	Under Public Law	Colleges of the arts
+Musikhochschule Lübeck	Lübeck	Under Public Law	Colleges of the arts
+Staatliche Hochschule für Musik und Darstellende Kunst Mannheim	Mannheim	Under Public Law	Colleges of the arts
+Akademie der Bildenden Künste München	München	Under Public Law	Colleges of the arts
+Hochschule für Fernsehen und Film München	München	Under Public Law	Colleges of the arts
+Hochschule für Musik und Theater München	München	Under Public Law	Colleges of the arts
+Kunstakademie Münster, Hochschule für Bildende Künste	Münster	Under Public Law	Colleges of the arts
+Akademie der Bildenden Künste Nürnberg	Nürnberg	Under Public Law	Colleges of the arts
+Hochschule für Musik Nürnberg	Nürnberg	Under Public Law	Colleges of the arts
+Hochschule für Gestaltung Offenbach	Offenbach	Under Public Law	Colleges of the arts
+Filmuniversität Babelsberg Konrad Wolf	Potsdam	Under Public Law	Colleges of the arts
+Hochschule für Katholische Kirchenmusik und Musikpädagogik	Regensburg	Church, State-Approved	Colleges of the arts
+Hochschule für Musik und Theater Rostock	Rostock	Under Public Law	Colleges of the arts
+Hochschule für Kirchenmusik der Diözese Rottenburg-Stuttgart	Rottenburg	Church, State-Approved	Colleges of the arts
+Hochschule für Musik Saar	Saarbrücken	Under Public Law	Colleges of the arts
+Staatliche Akademie der Bildenden Künste Stuttgart	Stuttgart	Under Public Law	Colleges of the arts
+Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart	Stuttgart	Under Public Law	Colleges of the arts
+Staatliche Hochschule für Musik Trossingen	Trossingen	Under Public Law	Colleges of the arts
+Hochschule für Kirchenmusik der Evangelischen Landeskirche in Württemberg	Tübingen	Church, State-Approved	Colleges of the arts
+Hochschule für Musik Franz Liszt Weimar	Weimar	Under Public Law	Colleges of the arts
+Hochschule für Musik Würzburg	Würzburg	Under Public Law	Colleges of the arts
+Fachhochschule für Verwaltung und Dienstleistung	Altenholz	Under Public Law	Universities of Applied Administrative Sciences
+Fachhochschule Polizei Sachsen-Anhalt	Aschersleben	Under Public Law	Universities of Applied Administrative Sciences
+Steuerakademie Niedersachsen	Bad Eilsen	Under Public Law	Universities of Applied Administrative Sciences
+Fachhochschule für Rechtspflege Nordrhein-Westfalen	Bad Münstereifel	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule für Öffentliche Verwaltung Bremen	Bremen	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule des Bundes für öffentliche Verwaltung	Brühl	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule der Polizei Rheinland-Pfalz	Büchenbeuren	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule für Finanzen Rheinland-Pfalz	Edenkoben	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen	Gelsenkirchen	Under Public Law	Universities of Applied Administrative Sciences
+Thüringer Fachhochschule für öffentliche Verwaltung	Gotha	Under Public Law	Universities of Applied Administrative Sciences
+Fachhochschule für öffentliche Verwaltung, Polizei und Rechtspflege Mecklenburg-Vorpommern	Güstrow	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule der Deutschen Bundesbank	Hachenburg	Under Public Law	Universities of Applied Administrative Sciences
+Norddeutsche Akademie für Finanzen und Steuerrecht	Hamburg	Under Public Law	Universities of Applied Administrative Sciences
+Kommunale Hochschule für Verwaltung in Niedersachsen	Hannover	Under Public Law	Universities of Applied Administrative Sciences
+Norddeutsche Hochschule für Rechtspflege	Hildesheim	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule für öffentliche Verwaltung Kehl	Kehl	Under Public Law	Universities of Applied Administrative Sciences
+Fachhochschule für Finanzen Brandenburg	Königs Wusterhausen	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg	Ludwigsburg	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule der Bundesagentur für Arbeit	Mannheim	Under Public Law	Universities of Applied Administrative Sciences
+Archivschule Marburg	Marburg	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule für öffentliche Verwaltung Rheinland-Pfalz	Mayen	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule für öffentliche Verwaltung und Rechtspflege	Meißen	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule für den öffentlichen Dienst in Bayern	München	Under Public Law	Universities of Applied Administrative Sciences
+Deutsche Hochschule der Polizei	Münster	Under Public Law	Universities of Applied Administrative Sciences
+Polizeiakademie Niedersachsen	Nienburg	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule für Finanzen NRW	Nordkirchen	Under Public Law	Universities of Applied Administrative Sciences
+Fachhochschule der Polizei Brandenburg	Oranienburg	Under Public Law	Universities of Applied Administrative Sciences
+Hessische Hochschule für Finanzen und Rechtspflege	Rotenburg an der Fulda	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule der Sächsischen Polizei	Rothenburg/Oberlausitz	Under Public Law	Universities of Applied Administrative Sciences
+Fachhochschule der Verwaltung des Saarlandes	Saarbrücken	Under Public Law	Universities of Applied Administrative Sciences
+Hochschule für Rechtspflege Schwetzingen	Schwetzingen	Under Public Law	Universities of Applied Administrative Sciences
+Hessische Hochschule für öffentliches Management und Sicherheit	Wiesbaden	Under Public Law	Universities of Applied Administrative Sciences
+HMU Health and Medical University	Erfurt	Private, State-Approved	Separate type of higher education institution
+Hochschule Geisenheim	Geisenheim	Under Public Law	Separate type of higher education institution
+Duale Hochschule Gera-Eisenach	Gera	Under Public Law	Separate type of higher education institution
+Berufliche Hochschule Hamburg (BHH)	Hamburg	Under Public Law	Separate type of higher education institution
+MSH Medical School Hamburg	Hamburg	Private, State-Approved	Separate type of higher education institution
+Hochschule für Gesellschaftsgestaltung	Koblenz	Private, State-Approved	Separate type of higher education institution
+Duale Hochschule Baden-Württemberg	Stuttgart	Under Public Law	Separate type of higher education institution
